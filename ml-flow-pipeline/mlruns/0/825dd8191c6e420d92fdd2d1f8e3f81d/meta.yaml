@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/825dd8191c6e420d92fdd2d1f8e3f81d/artifacts
+end_time: 1729937768550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 825dd8191c6e420d92fdd2d1f8e3f81d
+run_name: able-dolphin-854
+run_uuid: 825dd8191c6e420d92fdd2d1f8e3f81d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729937765064
+status: 3
+tags: []
+user_id: shebbar
